@@ -1,4 +1,5 @@
-# awsAIScratchExtension
+# AWS AI Services Scratch Extension
+
 Scratch Extension for Amazon Web Services (AWS) AI Services Polly and Translate
 
 See block explanations [here](https://github.com/ceyhunozgun/awsAIScratchExtension/wiki).
