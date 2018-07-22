@@ -1,8 +1,10 @@
 /* 
 Scratch Extension for AWS AI Services Polly and Translate
 Created by Ceyhun OZGUN
-Jul 2018
 
+https://github.com/ceyhunozgun/awsAIScratchExtension
+
+Jul 2018
 */
 
 new (function() {
@@ -34,6 +36,18 @@ new (function() {
 		'Turkish': {
 			pollyVoice: 'Filiz',
 			translateCode: 'tr',
+		},
+		'French': {
+			pollyVoice: 'Lea',
+			translateCode: 'fr',
+		},
+		'German': {
+			pollyVoice: 'Vicki',
+			translateCode: 'de',
+		},
+		'Italian': {
+			pollyVoice: 'Carla',
+			translateCode: 'it',
 		}
 	};
 	
@@ -177,9 +191,9 @@ new (function() {
 		
 		],
 		menus: {
-			languages: ['English', 'Spanish', 'Turkish'],
-			sourceLanguages: ['English', 'Spanish', 'Turkish'],
-			targetLanguages: ['English', 'Spanish', 'Turkish']
+			languages: ['English', 'Spanish', 'Turkish', 'French', 'German', 'Italian'],
+			sourceLanguages: ['English', 'Spanish', 'Turkish', 'French', 'German', 'Italian'],
+			targetLanguages: ['English', 'Spanish', 'Turkish', 'French', 'German', 'Italian']
 		},
 	};
 
