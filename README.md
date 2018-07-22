@@ -8,7 +8,7 @@ Try the extension with a sample project [here](https://scratchx.org/?url=https:/
 
 For more information on sample project, see [here](https://github.com/ceyhunozgun/awsAIScratchExtension/wiki/Sample-Project).
 
-See my blog post, https://medium.com/@ceyhun.ozgun/ai-is-hard-its-child-s-play-with-this-aws-ai-services-scratch-extension-32bed8669d36
+See my blog post for the development steps, https://medium.com/@ceyhun.ozgun/ai-is-hard-its-child-s-play-with-this-aws-ai-services-scratch-extension-32bed8669d36
 
 
 
